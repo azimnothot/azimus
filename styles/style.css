@@ -1,0 +1,43 @@
+body{
+    font-family: 'Song Myung', serif;;
+    color: rgb(117, 117, 117);
+    font-size: em;
+    margin-left: 300px;
+    background-color: rgba(30, 26, 68, 0.966);
+    margin-top: 100px;
+}
+button{
+    background-color: rgb(255, 232, 232);
+    border: 1.5px solid rgb(255, 190, 190);
+    border-radius: 4px;
+
+}
+button:hover{
+    transform: scale(1.03);
+    border: 1.2px solid rgb(216, 216, 216);
+}
+#reds{
+    color: rgb(255, 67, 67);
+    background-color: rgb(255, 255, 255);
+    width:  574px;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0px 0px 60px -21px rgba(0,0,0,0.75);
+}
+#reds h3{
+    color: rgb(138, 138, 138)
+}
+#action{
+    color: rgb(255, 45, 45);
+    background-color: rgb(255, 255, 255);
+    width:  574px;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 60px -21px rgba(0,0,0,0.75);;
+}
+input{
+    border: rgb(216, 216, 216) solid 1px;
+    border-radius: 3px;
+    background-color: rgb(255, 255, 255);
+}
